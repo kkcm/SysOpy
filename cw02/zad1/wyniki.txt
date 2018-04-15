@@ -1,0 +1,339 @@
+
+Now, I gonna generate data to file "s_data.txt", 500 blocks with 4 length each.
+
+Real time: 0000007019µs 
+System time: 0000005415µs 
+User time: 0000000737µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 500 blocks with 4 length each, using "sys" function.
+
+Real time: 0000004028µs 
+System time: 0000003218µs 
+User time: 0000000631µs 
+
+Now, I gonna sort data in file "s_data.txt", 500 blocks with 4 length each, using "sys" function.
+
+Real time: 0000226244µs 
+System time: 0000051649µs 
+User time: 0000133188µs 
+
+Now, I gonna sort data in file "l_data.txt", 500 blocks with 4 length each, using "lib" function.
+
+Real time: 0000439033µs 
+System time: 0000211027µs 
+User time: 0000191906µs 
+
+Now, I gonna generate data to file "s_data.txt", 1000 blocks with 4 length each.
+
+Real time: 0000007939µs 
+System time: 0000006602µs 
+User time: 0000001107µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 1000 blocks with 4 length each, using "sys" function.
+
+Real time: 0000007892µs 
+System time: 0000006548µs 
+User time: 0000001086µs 
+
+Now, I gonna sort data in file "s_data.txt", 1000 blocks with 4 length each, using "sys" function.
+
+Real time: 0000708322µs 
+System time: 0000037791µs 
+User time: 0000546327µs 
+
+Now, I gonna sort data in file "l_data.txt", 1000 blocks with 4 length each, using "lib" function.
+
+Real time: -0000722460µs 
+System time: 0000299285µs 
+User time: 0000859825µs 
+
+Now, I gonna generate data to file "s_data.txt", 200 blocks with 512 length each.
+
+Real time: 0000028737µs 
+System time: 0000013739µs 
+User time: 0000000640µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 200 blocks with 512 length each, using "sys" function.
+
+Real time: 0000004121µs 
+System time: 0000003084µs 
+User time: 0000000396µs 
+
+Now, I gonna sort data in file "s_data.txt", 200 blocks with 512 length each, using "sys" function.
+
+Real time: 0000108212µs 
+System time: 0000072214µs 
+User time: 0000027990µs 
+
+Now, I gonna sort data in file "l_data.txt", 200 blocks with 512 length each, using "lib" function.
+
+Real time: 0000219745µs 
+System time: 0000168805µs 
+User time: 0000045328µs 
+
+Now, I gonna generate data to file "s_data.txt", 400 blocks with 512 length each.
+
+Real time: 0000025656µs 
+System time: 0000023704µs 
+User time: 0000001166µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 400 blocks with 512 length each, using "sys" function.
+
+Real time: 0000004179µs 
+System time: 0000003364µs 
+User time: 0000000554µs 
+
+Now, I gonna sort data in file "s_data.txt", 400 blocks with 512 length each, using "sys" function.
+
+Real time: 0000354702µs 
+System time: 0000239381µs 
+User time: 0000100604µs 
+
+Now, I gonna sort data in file "l_data.txt", 400 blocks with 512 length each, using "lib" function.
+
+Real time: -0000122114µs 
+System time: 0000681993µs 
+User time: 0000169601µs 
+
+Now, I gonna generate data to file "s_data.txt", 200 blocks with 4096 length each.
+
+Real time: 0000120055µs 
+System time: 0000092736µs 
+User time: 0000002303µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 200 blocks with 4096 length each, using "sys" function.
+
+Real time: 0000002942µs 
+System time: 0000002419µs 
+User time: 0000000304µs 
+
+Now, I gonna sort data in file "s_data.txt", 200 blocks with 4096 length each, using "sys" function.
+
+Real time: -0000800840µs 
+System time: 0000115870µs 
+User time: 0000031121µs 
+
+Now, I gonna sort data in file "l_data.txt", 200 blocks with 4096 length each, using "lib" function.
+
+Real time: 0000285797µs 
+System time: 0000218918µs 
+User time: 0000054406µs 
+
+Now, I gonna generate data to file "s_data.txt", 400 blocks with 4096 length each.
+
+Real time: 0000164781µs 
+System time: 0000156883µs 
+User time: 0000003908µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 400 blocks with 4096 length each, using "sys" function.
+
+Real time: 0000008736µs 
+System time: 0000006110µs 
+User time: 0000000593µs 
+
+Now, I gonna sort data in file "s_data.txt", 400 blocks with 4096 length each, using "sys" function.
+
+Real time: 0000428931µs 
+System time: 0000311560µs 
+User time: 0000102686µs 
+
+Now, I gonna sort data in file "l_data.txt", 400 blocks with 4096 length each, using "lib" function.
+
+Real time: 0000011427µs 
+System time: 0000781184µs 
+User time: 0000192200µs 
+
+Now, I gonna generate data to file "s_data.txt", 200 blocks with 8192 length each.
+
+Real time: -0000795326µs 
+System time: 0000184249µs 
+User time: 0000004116µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 200 blocks with 8192 length each, using "sys" function.
+
+Real time: 0000003994µs 
+System time: 0000003224µs 
+User time: 0000000341µs 
+
+Now, I gonna sort data in file "s_data.txt", 200 blocks with 8192 length each, using "sys" function.
+
+Real time: 0000187177µs 
+System time: 0000128462µs 
+User time: 0000030880µs 
+
+Now, I gonna sort data in file "l_data.txt", 200 blocks with 8192 length each, using "lib" function.
+
+Real time: 0000329041µs 
+System time: 0000241784µs 
+User time: 0000061428µs 
+
+Now, I gonna generate data to file "s_data.txt", 400 blocks with 8192 length each.
+
+Real time: 0000313403µs 
+System time: 0000300337µs 
+User time: 0000007116µs 
+
+Now, I gonna copy data from file "s_data.txt" to file "l_data.txt", 400 blocks with 8192 length each, using "sys" function.
+
+Real time: -0000989203µs 
+System time: 0000006746µs 
+User time: 0000000565µs 
+
+Now, I gonna sort data in file "s_data.txt", 400 blocks with 8192 length each, using "sys" function.
+
+Real time: 0000582454µs 
+System time: 0000396121µs 
+User time: 0000103899µs 
+
+Now, I gonna sort data in file "l_data.txt", 400 blocks with 8192 length each, using "lib" function.
+
+Real time: 0000170011µs 
+System time: 0000827836µs 
+User time: 0000209680µs 
+
+Now, I gonna generate data to file "data.txt", 200 blocks with 4 length each.
+
+Real time: 0000002268µs 
+System time: 0000001814µs 
+User time: 0000000332µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 200 blocks with 4 length each, using "sys" function.
+
+Real time: 0000002369µs 
+System time: 0000001998µs 
+User time: 0000000355µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 200 blocks with 4 length each, using "lib" function.
+
+Real time: 0000000971µs 
+System time: 0000000756µs 
+User time: 0000000151µs 
+
+Now, I gonna generate data to file "data.txt", 400 blocks with 4 length each.
+
+Real time: 0000007343µs 
+System time: 0000004920µs 
+User time: 0000000658µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 400 blocks with 4 length each, using "sys" function.
+
+Real time: 0000006126µs 
+System time: 0000004628µs 
+User time: 0000000633µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 400 blocks with 4 length each, using "lib" function.
+
+Real time: 0000000566µs 
+System time: 0000000372µs 
+User time: 0000000177µs 
+
+Now, I gonna generate data to file "data.txt", 200 blocks with 512 length each.
+
+Real time: 0000018790µs 
+System time: 0000016913µs 
+User time: 0000000738µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 200 blocks with 512 length each, using "sys" function.
+
+Real time: 0000003261µs 
+System time: 0000002363µs 
+User time: 0000000348µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 200 blocks with 512 length each, using "lib" function.
+
+Real time: 0000000821µs 
+System time: 0000000552µs 
+User time: 0000000174µs 
+
+Now, I gonna generate data to file "data.txt", 400 blocks with 512 length each.
+
+Real time: 0000025208µs 
+System time: 0000023351µs 
+User time: 0000001024µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 400 blocks with 512 length each, using "sys" function.
+
+Real time: 0000004236µs 
+System time: 0000003487µs 
+User time: 0000000517µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 400 blocks with 512 length each, using "lib" function.
+
+Real time: 0000001042µs 
+System time: 0000000674µs 
+User time: 0000000223µs 
+
+Now, I gonna generate data to file "data.txt", 200 blocks with 4096 length each.
+
+Real time: -0000917107µs 
+System time: 0000079093µs 
+User time: 0000001938µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 200 blocks with 4096 length each, using "sys" function.
+
+Real time: 0000002974µs 
+System time: 0000002371µs 
+User time: 0000000295µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 200 blocks with 4096 length each, using "lib" function.
+
+Real time: 0000001602µs 
+System time: 0000001155µs 
+User time: 0000000228µs 
+
+Now, I gonna generate data to file "data.txt", 400 blocks with 4096 length each.
+
+Real time: 0000182536µs 
+System time: 0000171244µs 
+User time: 0000004020µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 400 blocks with 4096 length each, using "sys" function.
+
+Real time: 0000005786µs 
+System time: 0000004656µs 
+User time: 0000000528µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 400 blocks with 4096 length each, using "lib" function.
+
+Real time: 0000003305µs 
+System time: 0000002061µs 
+User time: 0000000366µs 
+
+Now, I gonna generate data to file "data.txt", 200 blocks with 8192 length each.
+
+Real time: 0000197198µs 
+System time: 0000181926µs 
+User time: 0000003928µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 200 blocks with 8192 length each, using "sys" function.
+
+Real time: 0000009504µs 
+System time: 0000002968µs 
+User time: 0000000321µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 200 blocks with 8192 length each, using "lib" function.
+
+Real time: 0000002496µs 
+System time: 0000001812µs 
+User time: 0000000296µs 
+
+Now, I gonna generate data to file "data.txt", 4000 blocks with 8192 length each.
+
+Real time: 0000388585µs 
+System time: 0000076431µs 
+User time: 0000073150µs 
+
+Now, I gonna copy data from file "data.txt" to file "s_data.txt", 4000 blocks with 8192 length each, using "sys" function.
+
+Real time: 0000115949µs 
+System time: 0000063698µs 
+User time: 0000004797µs 
+
+Now, I gonna copy data from file "data.txt" to file "l_data.txt", 4000 blocks with 8192 length each, using "lib" function.
+
+Real time: -0000865036µs 
+System time: 0000033978µs 
+User time: 0000005238µs
+
+Wniosek:
+W przypadku systemu OS X systemowe funkcje są szybsze niż te biblioteczne.

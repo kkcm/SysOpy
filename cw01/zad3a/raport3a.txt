@@ -1,0 +1,416 @@
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 1.61159700 
+Kernel time: 0.00001100 
+User time: 0.00015000 
+This is time for creating and filling array with num_of_blocks - 4000000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - (null) on -1 element.
+Real time: 0.00000200 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.02107100 
+Kernel time: 0.00000000 
+User time: 0.00000200 
+This is time for removing array with num_of_blocks - 4000000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.26258500 
+Kernel time: 0.00000200 
+User time: 0.00002400 
+This is time for creating and filling array with num_of_blocks - 500000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 10000 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00001000 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.00254500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for removing array with num_of_blocks - 500000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.34975300 
+Kernel time: 0.00000200 
+User time: 0.00003200 
+This is time for creating and filling array with num_of_blocks - 600000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - rotate_remove_many_blocks on 20000 element.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - remove_many_blocks on 10000 element.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.00303900 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for removing array with num_of_blocks - 600000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.48411500 
+Kernel time: 0.00000300 
+User time: 0.00004500 
+This is time for creating and filling array with num_of_blocks - 700000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 30000 element.
+Real time: 0.00176600 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - add on 2000 element.
+Real time: 0.28792500 
+Kernel time: 0.00000000 
+User time: 0.00002800 
+This is time for third operation - search_element on 15 element.
+Real time: 0.00357100 
+Kernel time: 0.00000000 
+User time: 0.00000100 
+This is time for removing array with num_of_blocks - 700000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.25299000 
+Kernel time: 0.00000200 
+User time: 0.00002200 
+This is time for creating and filling array with num_of_blocks - 400000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - (null) on -1 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.06298000 
+Kernel time: 0.00000000 
+User time: 0.00000700 
+This is time for removing array with num_of_blocks - 400000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.36288700 
+Kernel time: 0.00000300 
+User time: 0.00003200 
+This is time for creating and filling array with num_of_blocks - 500000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 10000 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.09091000 
+Kernel time: 0.00000100 
+User time: 0.00000900 
+This is time for removing array with num_of_blocks - 500000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.47240700 
+Kernel time: 0.00000400 
+User time: 0.00004200 
+This is time for creating and filling array with num_of_blocks - 600000.
+Real time: 0.00000200 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - rotate_remove_many_blocks on 20000 element.
+Real time: 0.00000200 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - remove_many_blocks on 10000 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.12334600 
+Kernel time: 0.00000000 
+User time: 0.00001300 
+This is time for removing array with num_of_blocks - 600000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.61481500 
+Kernel time: 0.00000500 
+User time: 0.00005500 
+This is time for creating and filling array with num_of_blocks - 700000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 30000 element.
+Real time: 0.00002600 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - add on 20 element.
+Real time: 0.38202300 
+Kernel time: 0.00000100 
+User time: 0.00003800 
+This is time for third operation - search_element on 15 element.
+Real time: 0.13340100 
+Kernel time: 0.00000000 
+User time: 0.00001300 
+This is time for removing array with num_of_blocks - 700000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 1.56428800 
+Kernel time: 0.00001100 
+User time: 0.00014500 
+This is time for creating and filling array with num_of_blocks - 4000000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - (null) on -1 element.
+Real time: 0.00000400 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00001100 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.02262300 
+Kernel time: 0.00000000 
+User time: 0.00000200 
+This is time for removing array with num_of_blocks - 4000000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.27356800 
+Kernel time: 0.00000200 
+User time: 0.00002500 
+This is time for creating and filling array with num_of_blocks - 500000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 10000 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.00237900 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for removing array with num_of_blocks - 500000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.38200000 
+Kernel time: 0.00000300 
+User time: 0.00003500 
+This is time for creating and filling array with num_of_blocks - 600000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - rotate_remove_many_blocks on 20000 element.
+Real time: 0.00001000 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - remove_many_blocks on 10000 element.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.00347300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for removing array with num_of_blocks - 600000.
+The end of the tests. 
+
+
+This test is for static memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.46178100 
+Kernel time: 0.00000300 
+User time: 0.00004300 
+This is time for creating and filling array with num_of_blocks - 700000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 30000 element.
+Real time: 0.00135800 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - add on 2000 element.
+Real time: 0.27626200 
+Kernel time: 0.00000000 
+User time: 0.00002700 
+This is time for third operation - search_element on 15 element.
+Real time: 0.00348200 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for removing array with num_of_blocks - 700000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.24509500 
+Kernel time: 0.00000200 
+User time: 0.00002200 
+This is time for creating and filling array with num_of_blocks - 400000.
+Real time: 0.00000500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - (null) on -1 element.
+Real time: 0.00000400 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000400 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.05513700 
+Kernel time: 0.00000000 
+User time: 0.00000500 
+This is time for removing array with num_of_blocks - 400000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.33239200 
+Kernel time: 0.00000300 
+User time: 0.00003000 
+This is time for creating and filling array with num_of_blocks - 500000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 10000 element.
+Real time: 0.00000400 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - (null) on -1 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.09312900 
+Kernel time: 0.00000000 
+User time: 0.00000900 
+This is time for removing array with num_of_blocks - 500000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.47911200 
+Kernel time: 0.00000400 
+User time: 0.00004300 
+This is time for creating and filling array with num_of_blocks - 600000.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - rotate_remove_many_blocks on 20000 element.
+Real time: 0.00000200 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - remove_many_blocks on 10000 element.
+Real time: 0.00000300 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for third operation - (null) on -1 element.
+Real time: 0.10816700 
+Kernel time: 0.00000000 
+User time: 0.00001100 
+This is time for removing array with num_of_blocks - 600000.
+The end of the tests. 
+
+
+This test is for dynamic memory allocation. 
+
+Let's start measuring time: 
+Real time: 0.65097300 
+Kernel time: 0.00000600 
+User time: 0.00005800 
+This is time for creating and filling array with num_of_blocks - 700000.
+Real time: 0.00000600 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for first operation - remove_many_blocks on 30000 element.
+Real time: 0.00003500 
+Kernel time: 0.00000000 
+User time: 0.00000000 
+This is time for second operation - add on 20 element.
+Real time: 0.38178300 
+Kernel time: 0.00000000 
+User time: 0.00003800 
+This is time for third operation - search_element on 15 element.
+Real time: 0.13929600 
+Kernel time: 0.00000100 
+User time: 0.00001400 
+This is time for removing array with num_of_blocks - 700000.
+The end of the tests. 
+
+

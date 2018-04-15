@@ -1,0 +1,4 @@
+ls -al
+echo SysOpy
+sleep 2
+pwd

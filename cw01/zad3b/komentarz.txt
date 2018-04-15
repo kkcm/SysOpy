@@ -1,0 +1,1 @@
+Po przeanalizowaniu czasów zawartych w raporcie można zauważyć, że z każdym stopniem optymalizacji czasy wykonania danych zadań się zmniejszają.
