@@ -1,0 +1,2 @@
+ls -al | grep kwi | head -n 7
+cat ./text.txt | tail -n 20 | sort | head -n 11
