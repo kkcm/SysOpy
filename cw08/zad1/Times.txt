@@ -1,0 +1,280 @@
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 1.
+
+Real time:   1    User time:   1    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 2.
+
+Real time:   1    User time:   1    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 4.
+
+Real time:   0    User time:   2    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 8.
+
+Real time:   1    User time:   2    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 1.
+
+Real time:   7    User time:   7    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 2.
+
+Real time:   4    User time:   8    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 4.
+
+Real time:   4    User time:   12    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 8.
+
+Real time:   4    User time:   12    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 1.
+
+Real time:   14    User time:   14    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 2.
+
+Real time:   8    User time:   15    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 4.
+
+Real time:   8    User time:   23    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 8.
+
+Real time:   7    User time:   23    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 1.
+
+Real time:   254    User time:   193    System time: 4 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 2.
+
+Real time:   101    User time:   187    System time: 1 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 4.
+
+Real time:   112    User time:   270    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 8.
+
+Real time:   90    User time:   273    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 1.
+
+Real time:   274    User time:   264    System time: 1 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 2.
+
+Real time:   184    User time:   310    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 4.
+
+Real time:   127    User time:   452    System time: 1 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 8.
+
+Real time:   136    User time:   455    System time: 4 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 1.
+
+Real time:   1    User time:   1    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 2.
+
+Real time:   0    User time:   1    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 4.
+
+Real time:   0    User time:   2    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter03. Filter size: 3x3.
+Threads number: 8.
+
+Real time:   1    User time:   2    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 1.
+
+Real time:   7    User time:   7    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 2.
+
+Real time:   4    User time:   7    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 4.
+
+Real time:   3    User time:   12    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter10. Filter size: 10x10.
+Threads number: 8.
+
+Real time:   4    User time:   12    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 1.
+
+Real time:   13    User time:   13    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 2.
+
+Real time:   6    User time:   13    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 4.
+
+Real time:   9    User time:   23    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter14. Filter size: 14x14.
+Threads number: 8.
+
+Real time:   6    User time:   22    System time: 0 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 1.
+
+Real time:   234    User time:   188    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 2.
+
+Real time:   170    User time:   252    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 4.
+
+Real time:   144    User time:   267    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter50. Filter size: 50x50.
+Threads number: 8.
+
+Real time:   98    User time:   269    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 1.
+
+Real time:   368    User time:   320    System time: 4 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 2.
+
+Real time:   185    User time:   310    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 4.
+
+Real time:   158    User time:   445    System time: 2 
+
+
+Image: before.pgm. Image size: 480x640.
+Filter: filters/filter65. Filter size: 65x65.
+Threads number: 8.
+
+Real time:   175    User time:   456    System time: 2 
+
+
